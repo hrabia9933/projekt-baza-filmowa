@@ -1,0 +1,23 @@
+Waskowy projekt :) 
+
+Baza filmów:
+- dodawanie
+- usuwanie
+- modyfikowanie informacji o filmie
+
+Film:
+- gatunek
+- data premiery
+- reżyseria
+- kraj pochodzenia
+- czas trwania 
+- krótki opis
+- średnia ocen użytkowników (później)
+- może coś jeszcze
+
+Operacje:
+- możliwość zalogowania się jako użytkownik
+- mozliwość oceny filmu w skali od 1 do 10
+- prowadzenie statystyki ocen danego użytkownika (wykres słupkowy   albo coś w ten teges)
+
+
